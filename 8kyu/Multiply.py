@@ -1,6 +1,6 @@
 # The code does not execute properly. Try to figure out why.
 
-## Solution
+# Solution
 
 def multiply(a, b):
   return a * b
